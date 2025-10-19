@@ -38,7 +38,7 @@ That’s it! No heavy libraries required.
 
 Run the tool
 ```
-python3 img2audio_cli.py
+python3 img2audio.py
 ```
 
 ---
@@ -79,6 +79,7 @@ recovered_test.jpg
 
 📂 Example Directory Flow
 
+```
 img2audio_cli.py
 │
 ├── input/
@@ -87,8 +88,7 @@ img2audio_cli.py
 ├── output/
 │   ├── myimage_encoded.wav
 │   └── recovered_myimage.png
-
-
+```
 ---
 
 🎨 Banner Preview
