@@ -27,6 +27,7 @@ Install Python dependencies:
 
 ```bash
 pip install colorama
+```
 
 That’s it! No heavy libraries required.
 
@@ -36,20 +37,21 @@ That’s it! No heavy libraries required.
 🚀 Usage
 
 Run the tool
-
+```
 python3 img2audio_cli.py
-
+```
 
 ---
 
 1️⃣ Encode Image → Audio
 
 When prompted:
-
+```
 Choose option:
 1) Encode Image → WAV
 2) Decode WAV → Image
 Enter choice (1/2): 1
+```
 
 Then:
 
@@ -91,6 +93,7 @@ img2audio_cli.py
 
 🎨 Banner Preview
 
+```
    _            ___               ___
   (_)_ _  ___ _|_  |___ ___ _____/ (_)__
  / /  ' \/ _ `/ __// _ `/ // / _  / / _ \
@@ -106,7 +109,7 @@ img2audio_cli.py
 2) Decode WAV → Image
 
 Enter choice (1/2):
-
+```
 
 ---
 
